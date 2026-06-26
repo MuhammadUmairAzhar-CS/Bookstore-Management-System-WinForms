@@ -1,2 +1,2 @@
 # Bookstore-Management-System-WinForms
-Wireless gesture-controlled robotic car using Arduino Nano (glove transmitter) and Arduino UNO (car receiver). A GY-61 ADXL335 accelerometer detects hand-tilt gestures, NRF24L01 handles 2.4GHz RF communication, and an L298N H-Bridge drives the motors — with an automatic stop if the signal is lost.
+Desktop Book Store Management System built in C# and Windows Forms (.NET, Visual Studio 2022). Simulates real bookstore operations — login, catalogue, checkout, admin oversight — using a clean 3-tier architecture (UI / Business Logic / Data Layer) for easier testing, extension, and maintenance.
